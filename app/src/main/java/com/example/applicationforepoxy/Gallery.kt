@@ -36,16 +36,16 @@ class Gallery : AppCompatActivity() {
 
         var items:ArrayList<CatGallery> = ArrayList()
 
-        items.add(CatGallery(R.drawable.ic_0, "Adorable"))
-        items.add(CatGallery(R.drawable.ic_1, "Elegant"))
-        items.add(CatGallery(R.drawable.ic_2, "Fluffy"))
-        items.add(CatGallery(R.drawable.ic_3, "Guardian"))
-        items.add(CatGallery(R.drawable.ic_4, "Sporty"))
-        items.add(CatGallery(R.drawable.ic_5, "Fancy"))
-        items.add(CatGallery(R.drawable.ic_6, "Silly"))
-        items.add(CatGallery(R.drawable.ic_7, "Cutie"))
-        items.add(CatGallery(R.drawable.ic_8, "Weird"))
-        items.add(CatGallery(R.drawable.ic_9, "Unique"))
+        items.add(CatGallery(R.drawable.ic_0, "Unique"))
+        items.add(CatGallery(R.drawable.ic_1, "Adorable"))
+        items.add(CatGallery(R.drawable.ic_2, "Elegant"))
+        items.add(CatGallery(R.drawable.ic_3, "Fluffy"))
+        items.add(CatGallery(R.drawable.ic_4, "Guardian"))
+        items.add(CatGallery(R.drawable.ic_5, "Sporty"))
+        items.add(CatGallery(R.drawable.ic_6, "Fancy"))
+        items.add(CatGallery(R.drawable.ic_7, "Silly"))
+        items.add(CatGallery(R.drawable.ic_8, "Cutie"))
+        items.add(CatGallery(R.drawable.ic_9, "Weird"))
 
         return items
 
